@@ -3,4 +3,5 @@
 
 int main(){
     printf("this is the first test using linux\n");
+    printf("hellow world\n");
 }
