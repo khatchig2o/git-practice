@@ -2,6 +2,7 @@
 # Compiled executables
 /contact_management/main
 /guessing_game/game
+/tic-tac-toe
 /hello_world/hello
 /pointers_practice/pointers
 /linux_practice/main
