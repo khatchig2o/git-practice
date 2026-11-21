@@ -1,0 +1,16 @@
+
+# Compiled executables
+/Contact_managment/main
+/guessing_game/game
+/hello_world/hello
+/pointers_practice/pointers
+/linux_practice/main
+
+# Object files
+*.o
+
+# Executable files
+*.exe
+
+# Debug files
+*.gch
